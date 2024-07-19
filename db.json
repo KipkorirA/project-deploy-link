@@ -28,6 +28,20 @@
                     "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/paris-olympics-64c18eddad4f8.jpg?crop=1.00xw:1.00xh;0,0&resize=900:*",
                     "date": "JULY 16, 2024",
                     "headline": "true"
+                },
+                {
+                    "id":3,
+                    "title":"Manchester United have signed French defender Leny Yoro from Lille until 2029 in a deal worth 62m euros (£52.18m), with 8m euros (£6.73m) in add-ons.",
+                    "image":"https://ichef.bbci.co.uk/news/976/cpsprodpb/6aa5/live/285d7ef0-44da-11ef-bb68-c9ac56984dad.jpg.webp",
+                    "date":"Jul 19, 2024",
+                    "headline":"true"
+                },
+                {
+                    "id":4,
+                    "title":"Plenty of Premier League clubs are on the hunt for a new forward in the summer transfer window, but which players are likely to move?",
+                    "image":"https://ichef.bbci.co.uk/news/976/cpsprodpb/950f/live/e2c99850-4372-11ef-81b7-eb26ff9f97f3.png.webp",
+                    "date":"Jul 19, 2024",
+                    "headline":"false"
                 }
             ]
         },
